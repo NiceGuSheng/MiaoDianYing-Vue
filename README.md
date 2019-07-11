@@ -1,5 +1,7 @@
 # miaomiao
 
+## Vue 2.x + Vue-Cli3 + Vue-router + Vuex 
+
 ## Project setup
 ```
 npm install
